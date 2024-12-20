@@ -1,1 +1,1 @@
-# CHEG_672_wastewater_app
+# Wastewater calculator app
